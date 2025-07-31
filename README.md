@@ -11,31 +11,23 @@ This repo highlights selected 3D modeling and environment design work from my ti
 
 ## 🧩 Featured Pieces
 
-### 1. Hard-Surface Crate (Game-Ready)
-Low-poly, UV unwrapped, baked normal map, and PBR textured in Substance.
-- **Software**: Blender + Substance
-- **Polycount**: ~980 tris
-- **Use case**: Stylized survival game asset
+### 1. Stylized Gate Rebuild (Dofus Concept)
+Recreated from a 2D concept (right) using clean low-poly modeling, stylized beveling, and detailed shape blocking. Modeled for game-engine compatibility.
+- **Software**: Maya
+- **Type**: Hand-modeled stylized asset
+- **Focus**: Form language, translation from 2D to 3D, clean topology
 
-![Crate Render](./assets/crate_render.png)
-
----
-
-### 2. Trumpet Still Life
-Object-focused lighting and material study. Emphasis on golden metal shaders, soft shadows, and balanced composition.
-- **Software**: Maya (original), re-rendering in Blender
-- **Techniques**: Photorealism attempt, light baking
-
-![Trumpet Scene](./assets/trumpet_scene.jpg)
+![Stylized Gate](./assets/stylized_gate.png)
 
 ---
 
-### 3. Environment Diorama (Unreal)
-Hand-placed foliage, terrain sculpting, and simple atmospheric setup in UE4.
-- **Software**: Unreal Engine + Blender props
-- **Focus**: Scene blocking, atmosphere, lighting
+### 2. Prop Still Life (Shader Study)
+Scene combining multiple props, custom shaders, and lighting. Studied brass, rubber, wood, plastic, and soft reflection tuning.
+- **Software**: Maya (original), Blender (conversion in progress)
+- **Props Included**: GameBoy, trumpet, shoes, filing cabinet, toolbox
+- **Focus**: Texturing consistency + material storytelling
 
-![UE Diorama](./assets/ue_diorama.png)
+![Still Life](./assets/trumpet_scene.png)
 
 ---
 
@@ -47,7 +39,7 @@ Hand-placed foliage, terrain sculpting, and simple atmospheric setup in UE4.
 ---
 
 ## 🧠 Why It Matters
-As I build AI systems that interact with or generate 3D assets, my foundation in modeling and real-time engines allows me to *understand the structure* behind the pixels. This repo serves both as a nod to my roots and a stepping stone into 3D GenAI.
+I’m now developing AI pipelines that will interface with 3D data — from prompts to assets to real-time memory. This work grounds me in how 3D is built and optimized, which helps me imagine more effective GenAI tooling for artists.
 
 ---
 
