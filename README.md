@@ -44,4 +44,4 @@ I’m now developing AI pipelines that will interface with 3D data — from prom
 ---
 
 ## 📬 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/mauricio-ventura-52a14425a) • [Main GitHub](https://github.com/Mugiwara555343)
+[LinkedIn](https://www.linkedin.com/in/mauricio-ventura-52a14425a) • [Portfolio Google Drive](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc)
