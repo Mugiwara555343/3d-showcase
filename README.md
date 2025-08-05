@@ -5,7 +5,7 @@ This repo highlights selected 3D modeling and environment design work from my ti
 ---
 
 ## 📬 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/mauricio-ventura-52a14425a) • [Portfolio Google Drive](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc)
+[LinkedIn](https://www.linkedin.com/in/mauricio-ventura-52a14425a) • [Game_Art_3D Google Drive](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc)
 
 ---
 
